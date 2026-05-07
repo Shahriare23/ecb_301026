@@ -2,7 +2,10 @@
 ## Course name: Seminar on Media Economics
 
 
+
 ## Short summary on "Basic textual analysis on ECB Press Conference Workflow"
+
+
 
 ## My chosen ECB Press Conference 
 I chose this press conference "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2025/html/ecb.is251030~4f74dde15e.en.html" for the given assignment because the impact of global trade and geopolitical tension on monetary policy piqued my intetrest. 
