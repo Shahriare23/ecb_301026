@@ -38,4 +38,4 @@ b. Top 10 Words After Stopword Removal
 | 9 | now | 19 | Current policy stance |
 | 10 | public | 18 | Digital euro / public finances |
 
-From the table above, we can confirm that, the key monetary policy topic "inflation" didn't make it in the top 10 postion avoiding any negative sentiment. Mr. Lagarde rather structured the speech in a positive frame focusing on the words above. They emphasized their efforts through "risk assesment", sovereignty and public welfare through "digital Euro" and the rest for a more optimismic frame. 
+From the table above we can confirm that, the key monetary policy topic "inflation" didn't make it in the top 10 postion avoiding any negative sentiment. Mr. Lagarde rather structured the speech in a positive frame focusing on the words above. They emphasized their efforts through "risk assesment", sovereignty and public welfare through "digital Euro" and the rest for a more optimismic frame. 
